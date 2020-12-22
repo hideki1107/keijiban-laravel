@@ -1,0 +1,14 @@
+{
+  "Register" : "登録",
+  "Login" : "ログイン",
+  "Name" : "お名前",
+  "E-Mail Address" : "メールアドレス",
+  "Password" : "パスワード",
+  "Confirm Password" : "パスワード（確認用）",
+  "Forgot Your Password?" : "パスワードをお忘れの方はこちら",
+  "Remember Me" : "パスワードを記憶する",
+  "Logout" : "ログアウト",
+  "Verify Email Address" : "メール認証",
+  "Please click the button below to verify your email address." : "仮登録が完了しました。下のボタンをクリックして認証を完了させてください。",
+  "If you did not create an account, no further action is required." : "※ こちらのメール内容にお心当たりのない場合は、本メールを削除頂きますようお願いいたします。"
+}
